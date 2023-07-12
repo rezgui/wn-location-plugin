@@ -37,3 +37,7 @@
 "2.0.2":
     - Include Russian states (subjects)
     - v2.0.2/seed_ru_states.php
+"2.0.3":
+    - Include Algeria states 
+    - v2.0.3/seed_dz_states.php
+    
